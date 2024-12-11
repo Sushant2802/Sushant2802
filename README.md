@@ -1,4 +1,4 @@
-## Hi there 👋 I am Sushant Mane
+## Hi there 👋 I'm Sushant Mane
 
 ### About Me
 
