@@ -3,7 +3,7 @@
 ### About Me
 
 I am Sushant Mane, a dedicated Data Science enthusiast with a strong foundation in mathematics and computer science. Proficient in Python, SQL, and a range of data analysis tools, I have hands-on experience in data cleaning, exploration, and applying machine learning algorithms.
-I've worked on diverse projects, I developed end-to-end projects like a Movie Recommender System and Image Caption Generator, showcasing my skills in libraries like Numpy, Pandas, Matplotlib, and Sk-Learn. My passion for continuous learning is evident through certifications and participation in advanced programs.
+I've worked on diverse projects, I developed end-to-end projects like a Movie Recommender System and Big Mart Sales Forecasting, showcasing my skills in libraries like Numpy, Pandas, Matplotlib, and Sk-Learn. My passion for continuous learning is evident through certifications and participation in advanced programs.
 
 
 ## My GitHub Stats
