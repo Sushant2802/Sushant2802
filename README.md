@@ -7,16 +7,13 @@ I am Sushant Mane, a dedicated Data Science enthusiast with a strong foundation 
 I've worked on diverse projects, I developed end-to-end projects like a Movie Recommender System and Big Mart Sales Forecasting, showcasing my skills in libraries like Numpy, Pandas, Matplotlib, and Sk-Learn. My passion for continuous learning is evident through certifications and participation in advanced programs.
 
 
-## My GitHub Stats
-2 align="center"> ⚡ Current Stats ⚡</h2>
+
+<h2 align="center"> ⚡ Current Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Sushant2802&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sushant2802&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant2802&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-![GitHub Stats 1](https://github-readme-stats.vercel.app/api?username=Sushant2802)   &nbsp;&nbsp;&nbsp;&nbsp;      
 
 
 
