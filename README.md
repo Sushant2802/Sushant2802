@@ -9,7 +9,7 @@ I've worked on diverse projects, I developed end-to-end projects like a Movie Re
 
 ## My GitHub Stats
 
-![GitHub Stats 1](https://github-readme-stats.vercel.app/api?username=Sushant2802)   &nbsp;&nbsp;&nbsp;&nbsp;      ![GitHub Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant2802)
+![GitHub Stats 1](https://github-readme-stats.vercel.app/api?username=Sushant2802)   &nbsp;&nbsp;&nbsp;&nbsp;      
 
 
 
