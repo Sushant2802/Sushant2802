@@ -8,6 +8,27 @@ I've worked on diverse projects, I developed end-to-end projects like a Movie Re
 
 
 
+## My Current Tech Stack 👩‍💻
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00ADD8?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0099CC?style=for-the-badge&logo=data-analysis&logoColor=white)
+![C++](https://img.shields.io/badge/C++-150458?style=for-the-badge&logo=C++&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D00000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
 <h2 align="center"> ⚡ Current Stats ⚡</h2>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Sushant2802&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
