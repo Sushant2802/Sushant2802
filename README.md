@@ -16,21 +16,17 @@ I've worked on diverse projects, I developed end-to-end projects like a Movie Re
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-<!--
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-data-analysis&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
--->
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-008080?style=for-the-badge&logo=eda&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-data-analysis&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white)
-
 
 ![C++](https://img.shields.io/badge/C++-150458?style=for-the-badge&logo=C++&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D00000?style=for-the-badge&logo=git&logoColor=white)
