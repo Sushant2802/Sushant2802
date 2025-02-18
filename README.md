@@ -20,9 +20,18 @@ I've worked on diverse projects, I developed end-to-end projects like a Movie Re
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<!--
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-data-analysis&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
+-->
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-data-analysis&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-013243?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlops&logoColor=white)
+
+
 ![C++](https://img.shields.io/badge/C++-150458?style=for-the-badge&logo=C++&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-D00000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,6 +47,15 @@ I've worked on diverse projects, I developed end-to-end projects like a Movie Re
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant2802&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+
+
+<h3 align="left">🔗Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sushant-mane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sushant1" height="30" width="40" /></a>
+<a href="https://kaggle.com/sushant28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sushant2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sushantt_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sushant3" height="30" width="40" /></a>
+</p>
 
 <!--
 <p align="left">
