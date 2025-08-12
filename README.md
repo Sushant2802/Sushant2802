@@ -2,9 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushant2802&label=Profile%20views&color=0e75b6&style=flat" alt="Sushant2802" /> </p>
 
 ### About Me
-
-I am Sushant Mane, a dedicated Data Science enthusiast with a strong foundation in mathematics and computer science. Proficient in Python, SQL, and a range of data analysis tools, I have hands-on experience in data cleaning, exploration, and applying machine learning algorithms.
-I've worked on diverse projects, I developed end-to-end projects like a FinTrack-AI, Automated Financial Analytical Project, AI Resume Analyzer, and many more, showcasing my skills in libraries like Numpy, Pandas, Matplotlib, and Sk-Learn. My passion for continuous learning is evident through certifications and participation in advanced programs.
+ Data Science enthusiast with a strong foundation in mathematics and computer science. Proficient in Python, SQL, Machine Learning, and Data Analytics, with hands-on experience in developing end-to-ensolutions using tools like Power BI, Streamlit, and Python libraries for data processing and visualization.Passionate about applying data-driven approaches to solve real-world problems and deliver impactful insights.
 
 
 
