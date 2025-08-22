@@ -2,7 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushant2802&label=Profile%20views&color=0e75b6&style=flat" alt="Sushant2802" /> </p>
 
 ### About Me
- Data Science enthusiast with a strong foundation in mathematics and computer science. Proficient in Python, SQL, Machine Learning, and Data Analytics, with hands-on experience in developing end-to-ensolutions using tools like Power BI, Streamlit, and Python libraries for data processing and visualization.Passionate about applying data-driven approaches to solve real-world problems and deliver impactful insights.
+👋 Hi, I’m Sushant Mane, a final-year B.Tech CSE (AI & ML) student.
+💻 Skilled in Python, SQL, Machine Learning, Data Analytics & GenAI.
+🚀 Built projects like FinTrack AI, AI Resume Analyzer & Analytics Dashboards.
+🌱 Looking for internship & job opportunities in Data Analytics, AI/ML, and GenAI.
 
 
 
