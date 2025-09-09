@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Sushant Mane
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sushant2802&label=Profile%20views&color=0e75b6&style=flat" alt="Sushant2802" /> </p>
 
+
 ### About Me
 👋 Hi, I’m Sushant Mane, a final-year B.Tech CSE (AI & ML) student.  <br>
 💻 Skilled in Python, SQL, Machine Learning, Data Analytics & GenAI.  <br>
@@ -9,8 +10,34 @@
 
 
 
-## My Current Tech Stack 👩‍💻
 
+<h3 align="left">🔗Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sushant-mane-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sushant1" height="30" width="40" /></a>
+<a href="https://kaggle.com/sushant28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sushant2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sushantt_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sushant3" height="30" width="40" /></a>
+</p>
+
+
+
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushant2802&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant2802&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
+
+### 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sushant2802&theme=tokyonight&border_radius=6&mode=weekly&card_width=980&card_height=250)](https://git.io/streak-stats)
+
+
+
+
+<!--
+
+## My Current Tech Stack 👩‍💻
 
 ![EDA](https://img.shields.io/badge/EDA-008080?style=for-the-badge&logo=eda&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-data-analysis&logoColor=white)
@@ -35,19 +62,20 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br>
 
+-->
 
 
-
+<!--
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sushant2802&theme=nord_dark)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sushant2802&theme=nord_dark)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sushant2802&theme=nord_dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sushant2802&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
-![Atul's github stats](https://github-readme-stats.vercel.app/api?username=Sushant2802&count_private=true&show_icons=true&theme=tokyonight)
+![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=Sushant2802&count_private=true&show_icons=true&theme=tokyonight)
 <br>
 
-
+-->
 
 
 <!--
@@ -60,13 +88,6 @@
 
 -->
 
-
-<h3 align="left">🔗Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sushant-mane-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sushant1" height="30" width="40" /></a>
-<a href="https://kaggle.com/sushant28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Sushant2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sushantt_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sushant3" height="30" width="40" /></a>
-</p>
 
 <!--
 <p align="left">
