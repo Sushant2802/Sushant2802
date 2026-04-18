@@ -3,10 +3,10 @@
 
 
 ### About Me
-👋 Hi, I’m Sushant Mane, a final-year B.Tech CSE (AI & ML) student.  <br>
-💻 Skilled in Python, SQL, Machine Learning, Data Analytics, Deep Learning, NLP & GenAI.  <br>
-🚀 Built projects like FinTrack AI, AI Resume Analyzer & Analytics Dashboards.  <br>
-🌱 Looking for internship & job opportunities in Data Analytics, AI/ML, and GenAI.  <br>
+👋 Hi, I’m Sushant Mane, a final-year B.Tech CSE (AI&ML) student.  <br>
+💻 Skilled in Python, SQL, Machine Learning, Deep Learning, NLP & GenAI.  <br>
+🚀 Built projects like DocuTalk-AI, FinTrack-AI, Time Series Agent, and many more.  <br>
+🌱 Looking for job opportunities in AI/ML, GenAI, and Data Science.  <br>
 
 
 
