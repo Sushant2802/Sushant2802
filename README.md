@@ -30,7 +30,10 @@
 
 
 <h3 align="left">Stats :</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sushant2802&theme=tokyonight&border_radius=6&mode=weekly&card_width=980&card_height=250)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sushant2802&theme=tokyonight&border_radius=6&mode=weekly" />
+</p>
 
 
 
